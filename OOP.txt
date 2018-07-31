@@ -1,0 +1,79 @@
+        OBJECT ORIENTED PROGRAMMING
+
+Class : A class is the specification of the object or, A class can be defined as a template/blueprint that describes the behavior/state that the object of its 
+type support.
+
+Object: An object is an instance of a class .
+
+
+
+There are 4 major features in OOP .
+1. Abstraction 
+2. Encapsulation
+3. Inheritance
+4. Polymorphism
+
+ 1. Abstraction : It could be define from 2 viewpoints .
+
+   i . Only necessary data attribiutes will be taken 
+       Only necessary behavior or function will be taken (Relavant to specific software)
+
+   Here , Out of all possible real life attributes and behabiour we select the attributes and behabiour which make relevance to the software or system .
+
+   
+    ii . (When using third party code ) We don't need to know what we do not need to know . For example : We don't need to know how printf() code is written .
+          We just need to know that it prints something on the screen . 
+
+
+
+ 2. Encapsulation : It's basically Controlling the access of the data .
+              If you want to access the data call the function .
+              Readable functions should be public and changeable should be private like data .
+
+	Two important things :
+	  i . Data and function bound together within a class
+	 ii . Controlling the access of the data .
+
+
+  Interface : These public functions are called Interface .  `
+
+
+
+
+ 3. Inheritance : Inheritance is nothing but one object acquiring the properties of another object through relationship .
+		  Child class interits from the base or inheritted or parent class. 
+                  It's for Code's Reusability with Extensibility
+
+
+
+
+ 4. Polymorphism : Poly means many forms . Polymorphism is many form of method . It's basically the same function when applied on different objects gives 
+		   different results . 
+
+         There are 2 types of Polymorphism .
+	 1. Static : Implementing multiple methods within the same class that use the same name but a different set of parameters. 
+                     That is called method overloading and represents a static form of polymorphism.
+
+ 	 2. Dynamic : Within an inheritance hierarchy, a subclass can override a method of its superclass. 
+                     That is called method overriddin and represents a dynamic form of polymorphism.
+	      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
